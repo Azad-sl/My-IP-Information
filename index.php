@@ -10,8 +10,8 @@
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
 	<link rel="stylesheet" href="/tabler.min.css">
-	<!-- 去注册百度地图的开发者账号！地址：https://lbsyun.baidu.com/index.php?title=jspopularGL 每天5k用量，然后替换这的值 -->
-	<script src="http://api.map.baidu.com/api?v=2.0&ak=你的值"></script>
+	<!-- 去注册百度地图的开发者账号！地址：https://lbsyun.baidu.com/index.php?title=jspopularGL 每天5k用量，然后替换这ak=的值 -->
+	<script src="http://api.map.baidu.com/api?v=2.0&ak=7Tr6HbDWQdVVrduTv3o6IGMEWsxuXGGC"></script>
 	<link rel="stylesheet" href="https://gcore.jsdelivr.net/npm/@tabler/core@1.0.0-beta17/dist/css/tabler-flags.min.css">
 	<style>
 	    body{
